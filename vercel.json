@@ -1,4 +1,5 @@
 {
+  "root": "my-ecommerce",
   "rewrites": [
     { "source": "/(.*)", "destination": "/index.html" }
   ]
